@@ -1,0 +1,32 @@
+{
+  "site": "Ancient City",
+  "location": {
+    "lat": 45.66833,
+    "lon": 23.21833,
+    "elev": 940
+  },
+  "dating": {
+    "year": -2033,
+    "method": "astronomical alignment",
+    "error_deg": 0.0
+  },
+  "period": "Bronze Age",
+  "features": {
+    "linear_structures": 3157,
+    "rectangular_patterns": 1616,
+    "depressions": 30,
+    "possible_crypts": 5
+  },
+  "alignments": {
+    "sarmizegetusa": {
+      "azimuth": 125.54,
+      "distance_km": 8.8
+    },
+    "winter_solstice_sunrise": 125.54
+  },
+  "contemporary_sites": [
+    "Giza",
+    "Stonehenge"
+  ],
+  "significance": "Oldest known site in the area, ~1500 years before Dacian kingdom"
+}
