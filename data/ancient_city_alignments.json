@@ -1,0 +1,89 @@
+{
+  "ancient_city": {
+    "lat": 45.66833,
+    "lon": 23.21833,
+    "elev": 939.8
+  },
+  "sarmizegetusa": {
+    "lat": 45.6222,
+    "lon": 23.3103,
+    "elev": 1200
+  },
+  "alignment": {
+    "distance_km": 8.814277586909995,
+    "azimuth_deg": 125.53591317560765,
+    "elevation_diff_m": 260.20000000000005
+  },
+  "nearby_sites": [
+    {
+      "name": "Vartoape Nord Crater",
+      "lat": 45.678,
+      "lon": 23.222,
+      "distance_km": 1.112163033197133,
+      "azimuth": 14.897936678424488,
+      "elev_diff": -49.799999999999955
+    },
+    {
+      "name": "Sarmizegetusa Regia",
+      "lat": 45.6222,
+      "lon": 23.3103,
+      "distance_km": 8.814277586909995,
+      "azimuth": 125.53591317560765,
+      "elev_diff": 260.20000000000005
+    },
+    {
+      "name": "Piatra Ro\u0219ie",
+      "lat": 45.5992,
+      "lon": 23.3333,
+      "distance_km": 11.80666436889716,
+      "azimuth": 130.55839328614468,
+      "elev_diff": -109.79999999999995
+    },
+    {
+      "name": "Coste\u0219ti-Cet\u0103\u021buie",
+      "lat": 45.5458,
+      "lon": 23.2883,
+      "distance_km": 14.67157560361565,
+      "azimuth": 158.133797313368,
+      "elev_diff": -379.79999999999995
+    },
+    {
+      "name": "Blidaru",
+      "lat": 45.5697,
+      "lon": 23.3447,
+      "distance_km": 14.741397093599145,
+      "azimuth": 137.9962256973916,
+      "elev_diff": -234.79999999999995
+    }
+  ],
+  "solar_matches": [
+    {
+      "site": "Sarmizegetusa Regia",
+      "event": "R\u0103s\u0103rit Solsti\u021biu Iarn\u0103",
+      "azimuth": 125.53591317560765,
+      "target_az": 128.8,
+      "diff": 3.264086824392365
+    },
+    {
+      "site": "Piatra Ro\u0219ie",
+      "event": "R\u0103s\u0103rit Solsti\u021biu Iarn\u0103",
+      "azimuth": 130.55839328614468,
+      "target_az": 128.8,
+      "diff": 1.758393286144667
+    }
+  ],
+  "golden_ratios": [
+    [
+      "Sarmizegetusa Regia",
+      "Coste\u0219ti-Cet\u0103\u021buie",
+      1.6645238885378737,
+      "\u03c6"
+    ],
+    [
+      "Sarmizegetusa Regia",
+      "Blidaru",
+      1.6724452966504553,
+      "\u03c6"
+    ]
+  ]
+}
