@@ -1,0 +1,24 @@
+{
+  "location": {
+    "lat": 45.66833,
+    "lon": 23.21833
+  },
+  "elevation_m": 939.760009765625,
+  "resolution": "1m LIDAR",
+  "tile": "T90342_extracted",
+  "window_size_m": {
+    "width": 1000,
+    "height": 1000
+  },
+  "structures": {
+    "linear_features": 3157,
+    "rectangular_patterns": 1616,
+    "depressions": 118,
+    "mounds": 206,
+    "platforms": 4
+  },
+  "topography": {
+    "slope_deg": 32.730743408203125,
+    "lrm_m": -3.2576904296875
+  }
+}
