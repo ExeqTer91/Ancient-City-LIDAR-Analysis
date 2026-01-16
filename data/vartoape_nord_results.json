@@ -1,0 +1,39 @@
+{
+  "location": "Vartoape Nord",
+  "center": {
+    "lat": 45.6931,
+    "lon": 23.2911
+  },
+  "bounds": {
+    "north": 45.7081,
+    "south": 45.6781,
+    "west": 23.2686,
+    "east": 23.3136
+  },
+  "source": "ANCPI T88261",
+  "statistics": {
+    "valid_pct": 100.0,
+    "elevation": {
+      "min": 639.6699829101562,
+      "max": 1285.3499755859375,
+      "mean": 1022.915283203125
+    },
+    "n_voids": 4778,
+    "n_anomalies": 125676,
+    "n_significant": 2
+  },
+  "significant_features": [
+    {
+      "lat": 45.68084401473297,
+      "lon": 23.27812867132867,
+      "size_m2": 265228,
+      "elev": 685.280029296875
+    },
+    {
+      "lat": 45.67854198895028,
+      "lon": 23.28456083916084,
+      "size_m2": 1082,
+      "elev": 777.0999755859375
+    }
+  ]
+}
