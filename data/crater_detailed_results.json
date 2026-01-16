@@ -1,0 +1,32 @@
+{
+  "location": {
+    "lat": 45.68191,
+    "lon": 23.28951
+  },
+  "geometry": {
+    "diameter_m": 680,
+    "depth_m": 68.45989990234375,
+    "center_elevation_m": 833.0399780273438,
+    "rim_elevation_m": 901.4998779296875
+  },
+  "symmetry": {
+    "radial_symmetry": 0.7127608541280619,
+    "interpretation": "MODERATE"
+  },
+  "volume_m3": 12967700.0,
+  "alignment": {
+    "to_sarmizegetusa": {
+      "azimuth_deg": 169.33816175247821,
+      "distance_km": 6.76368380374916
+    },
+    "to_discs": {
+      "azimuth_deg": 199.68719269748502,
+      "distance_km": 4.9195958874252295
+    }
+  },
+  "drainage": {
+    "convergence": -0.41649278120202765,
+    "n_channels": 2298
+  },
+  "terraces": 65
+}
