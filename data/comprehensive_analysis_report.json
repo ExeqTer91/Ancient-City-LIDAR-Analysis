@@ -1,0 +1,266 @@
+{
+  "Structure #1": {
+    "name": "Structure #1",
+    "lat": 45.6376,
+    "lon": 23.2707,
+    "stereo70_x": 365329.0503954565,
+    "stereo70_y": 461220.32254282857,
+    "center_elevation": 918.6199951171875,
+    "window_size_m": "300x300",
+    "elevation": {
+      "min": 846.8800048828125,
+      "max": 965.760009765625,
+      "mean": 909.6651611328125,
+      "std": 25.374326705932617,
+      "range": 118.8800048828125
+    },
+    "slope": {
+      "min": 0.2867562472820282,
+      "max": 63.442626953125,
+      "mean": 27.903886795043945,
+      "flat_3deg_m2": 92,
+      "flat_5deg_m2": 393,
+      "flat_10deg_m2": 2127,
+      "dominant_aspect": "W"
+    },
+    "terraces": {
+      "count": 15,
+      "total_area_m2": 615,
+      "largest_m2": 221,
+      "top_5_sizes_m2": [
+        "221",
+        "81",
+        "73",
+        "61",
+        "31"
+      ]
+    },
+    "linear_features": {
+      "pixel_count": 7200,
+      "density_percent": 8.0,
+      "dominant_direction": "30-60\u00b0"
+    },
+    "curvature": {
+      "convex_pixels": 4500,
+      "concave_pixels": 4500
+    },
+    "golden_ratio": {
+      "phi_related_distances": 0,
+      "details": []
+    },
+    "anomalies": {
+      "total_pixels": 4500,
+      "percentage": 5.0,
+      "cluster_count": 119,
+      "largest_clusters_m2": [
+        "1077",
+        "350",
+        "341",
+        "227",
+        "221"
+      ]
+    },
+    "profiles": {
+      "ns_elevation_changes": 9,
+      "ew_elevation_changes": 2
+    }
+  },
+  "Structure #2": {
+    "name": "Structure #2",
+    "lat": 45.6396,
+    "lon": 23.2736,
+    "stereo70_x": 365559.87683392985,
+    "stereo70_y": 461437.6411291068,
+    "center_elevation": 989.8599853515625,
+    "window_size_m": "300x300",
+    "elevation": {
+      "min": 904.97998046875,
+      "max": 1036.93994140625,
+      "mean": 982.5385131835938,
+      "std": 29.913043975830078,
+      "range": 131.9599609375
+    },
+    "slope": {
+      "min": 0.2867562472820282,
+      "max": 49.52572250366211,
+      "mean": 21.670520782470703,
+      "flat_3deg_m2": 186,
+      "flat_5deg_m2": 527,
+      "flat_10deg_m2": 3832,
+      "dominant_aspect": "W"
+    },
+    "terraces": {
+      "count": 12,
+      "total_area_m2": 944,
+      "largest_m2": 237,
+      "top_5_sizes_m2": [
+        "237",
+        "221",
+        "160",
+        "151",
+        "51"
+      ]
+    },
+    "linear_features": {
+      "pixel_count": 7200,
+      "density_percent": 8.0,
+      "dominant_direction": "30-60\u00b0"
+    },
+    "curvature": {
+      "convex_pixels": 4500,
+      "concave_pixels": 4500
+    },
+    "golden_ratio": {
+      "phi_related_distances": 0,
+      "details": []
+    },
+    "anomalies": {
+      "total_pixels": 4500,
+      "percentage": 5.0,
+      "cluster_count": 69,
+      "largest_clusters_m2": [
+        "1903",
+        "764",
+        "195",
+        "157",
+        "131"
+      ]
+    },
+    "profiles": {
+      "ns_elevation_changes": 1,
+      "ew_elevation_changes": 0
+    }
+  },
+  "Structure #3": {
+    "name": "Structure #3",
+    "lat": 45.6373,
+    "lon": 23.273,
+    "stereo70_x": 365507.58984296717,
+    "stereo70_y": 461183.11293078534,
+    "center_elevation": 973.1199951171875,
+    "window_size_m": "300x300",
+    "elevation": {
+      "min": 883.1599731445312,
+      "max": 1032.760009765625,
+      "mean": 954.84423828125,
+      "std": 36.38544845581055,
+      "range": 149.60003662109375
+    },
+    "slope": {
+      "min": 1.4334940910339355,
+      "max": 56.65101623535156,
+      "mean": 26.991945266723633,
+      "flat_3deg_m2": 13,
+      "flat_5deg_m2": 97,
+      "flat_10deg_m2": 707,
+      "dominant_aspect": "S"
+    },
+    "terraces": {
+      "count": 5,
+      "total_area_m2": 134,
+      "largest_m2": 61,
+      "top_5_sizes_m2": [
+        "61",
+        "28",
+        "24",
+        "12",
+        "9"
+      ]
+    },
+    "linear_features": {
+      "pixel_count": 7200,
+      "density_percent": 8.0,
+      "dominant_direction": "0-30\u00b0 (E-W)"
+    },
+    "curvature": {
+      "convex_pixels": 4500,
+      "concave_pixels": 4500
+    },
+    "golden_ratio": {
+      "phi_related_distances": 0,
+      "details": []
+    },
+    "anomalies": {
+      "total_pixels": 4500,
+      "percentage": 5.0,
+      "cluster_count": 117,
+      "largest_clusters_m2": [
+        "604",
+        "573",
+        "470",
+        "206",
+        "191"
+      ]
+    },
+    "profiles": {
+      "ns_elevation_changes": 1,
+      "ew_elevation_changes": 2
+    }
+  },
+  "Structure #4": {
+    "name": "Structure #4",
+    "lat": 45.6396,
+    "lon": 23.2709,
+    "stereo70_x": 365349.4485500773,
+    "stereo70_y": 461442.1929288649,
+    "center_elevation": 896.8400268554688,
+    "window_size_m": "300x300",
+    "elevation": {
+      "min": 797.1799926757812,
+      "max": 973.7999877929688,
+      "mean": 899.5358276367188,
+      "std": 42.95583724975586,
+      "range": 176.6199951171875
+    },
+    "slope": {
+      "min": 0.2867562472820282,
+      "max": 63.442626953125,
+      "mean": 28.643503189086914,
+      "flat_3deg_m2": 62,
+      "flat_5deg_m2": 286,
+      "flat_10deg_m2": 1360,
+      "dominant_aspect": "W"
+    },
+    "terraces": {
+      "count": 6,
+      "total_area_m2": 418,
+      "largest_m2": 221,
+      "top_5_sizes_m2": [
+        "221",
+        "64",
+        "61",
+        "51",
+        "12"
+      ]
+    },
+    "linear_features": {
+      "pixel_count": 7200,
+      "density_percent": 8.0,
+      "dominant_direction": "30-60\u00b0"
+    },
+    "curvature": {
+      "convex_pixels": 4500,
+      "concave_pixels": 4500
+    },
+    "golden_ratio": {
+      "phi_related_distances": 0,
+      "details": []
+    },
+    "anomalies": {
+      "total_pixels": 4500,
+      "percentage": 5.0,
+      "cluster_count": 76,
+      "largest_clusters_m2": [
+        "1604",
+        "526",
+        "306",
+        "189",
+        "155"
+      ]
+    },
+    "profiles": {
+      "ns_elevation_changes": 2,
+      "ew_elevation_changes": 3
+    }
+  }
+}
